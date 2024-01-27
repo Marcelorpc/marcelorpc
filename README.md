@@ -23,6 +23,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelorpc&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="marcelorpc" 
     bg_color=#808080/>
 </p>
+<p>
+<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelorpc&theme=dark&hide_border=true" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
