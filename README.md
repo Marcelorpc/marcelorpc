@@ -29,7 +29,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcelorpc/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="marcelo paiva chaves" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/marcelorpc/" target="blank"><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="marcelo paiva chaves" width="120" height="30"/></a>
+      <a href="https://wa.me/5521986960700" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" width="120" height="30">
+      </a>
+      <a href="https://www.instagram.com/marcelorpc_fotografia/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marcelo paiva chaves" width="130" height="30">
+      </a>
 </p>
