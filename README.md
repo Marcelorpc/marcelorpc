@@ -24,16 +24,17 @@
     bg_color=#808080/>
 </p>
 <p>
-<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelorpc&theme=dark&hide_border=true" />
+  <img alt="Marcelo Paiva Chaves" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelorpc&theme=dark&hide_border=true" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/marcelorpc/" target="_blank"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="marcelo paiva chaves" width="120" height="30"/></a>
-      <a href="https://wa.me/5521986960700" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" width="120" height="30">
-      </a>
-      <a href="https://www.instagram.com/marcelorpc_fotografia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marcelo paiva chaves" width="130" height="30">
-      </a>
+      alt="marcelo paiva chaves" width="120" height="30"/>
+  </a>
+  <a href="https://wa.me/5521986960700" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" width="120" height="30">
+  </a>
+  <a href="https://www.instagram.com/marcelorpc_fotografia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="marcelo paiva chaves"       width="130" height="30">
+  </a>
 </p>
