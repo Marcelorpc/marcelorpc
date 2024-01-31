@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
 </p>    
 
-<h3>Statistical Data :</h3>
+<h3>Statistical Data :</h3><p>If the graph is black, just reload the page<p/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelorpc&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="marcelorpc" 
     bg_color=#808080/>
 </p>
