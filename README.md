@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm Marcelo Paiva Chaves <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Full Stack Developer Student | HTML | CSS | JavaScript | TypeScript | ReactJS | Git and GitHub</h3>
+<h3 align="center">Full Stack Developer Student | HTML | CSS | JavaScript | TypeScript | ReactJS | Figma | Git and GitHub</h3>
 
 <p align="center"> 
     <a href="https://www.cprogramming.com/" chools.com/css/" target="_blank" rel="noreferrer"> 
@@ -14,7 +14,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"     /> </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="40" height="40"></a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40" /> </a>  
 </p>    
