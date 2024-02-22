@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm Marcelo Paiva Chaves <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Full Stack Developer Student | HTML | CSS | JavaScript | ReactJS | Git and GitHub | Python </h3>
+<h3 align="center">Full Stack Developer Student | HTML | CSS | JavaScript | TypeScript | ReactJS | Git and GitHub</h3>
 
 <p align="center"> 
     <a href="https://www.cprogramming.com/" chools.com/css/" target="_blank" rel="noreferrer"> 
@@ -12,11 +12,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40" /> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
+    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40" /> </a>  
 </p>    
 
 <h3>Statistical Data :</h3><p>If the graph is black, just reload the page<p/>
